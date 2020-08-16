@@ -94,6 +94,8 @@ const styles = StyleSheet.create({
     flex: 1,
     backgroundColor: "#000",
     justifyContent: "flex-end",
+    maxWidth: 720,
+    maxHeight: 1280,
   },
   value: {
     color: "#fff",
